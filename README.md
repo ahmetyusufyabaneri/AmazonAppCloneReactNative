@@ -9,7 +9,7 @@
 <li>@react-navigation/stack</li>
 <li>@react-navigation/native</li>
 <li>react-native-screens</li>
-<li>@react-native-masked-view/masked-view"</li>
+<li>@react-native-masked-view/masked-view</li>
 <li>react-native-gesture-handler</li>
 <li>react-native-linear-gradient</li>
 <li>react-native-swiper</li>
